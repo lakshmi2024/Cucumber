@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="1" tests="1" time="70.928486">
+<testcase classname="Test TestMeApp" name="Registration" time="70.928486">
+<skipped><![CDATA[Given Open the application..................................................passed
+When Click on signup........................................................passed
+And Enter username as "poojalakshmi"........................................passed
+And enter first name as "lakshmi"...........................................passed
+And enter last name as "pooja"..............................................passed
+And enter password as "lakshmi123"..........................................passed
+And confirm password as "lakshmi123"........................................passed
+And choose gender...........................................................passed
+And enter email as "lakzz@gmail.com"........................................passed
+And enter mobile number as "9876543210".....................................passed
+And enter dob as "20/09/1997"...............................................passed
+And enter address as "gfruyggthy"...........................................passed
+And choose security question................................................passed
+And enter answer............................................................passed
+Then click register.........................................................passed
+Then close application......................................................undefined
+]]></skipped>
+</testcase>
+</testsuite>
